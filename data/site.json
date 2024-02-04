@@ -1,9 +1,9 @@
 {
-  "site_title": "Sendit",
-  "description": "A polished, marketing website template built with Astro",
+  "site_title": "WaSender",
+  "description": "CRM Multiagente para WhatsApp, sus agentes pueden atender a varios clientes a la vez, con el mismo número de WhatsApp Business.",
   "favicon_icon": "/images/favicon.ico",
   "favicon_image": "/images/favicon.png",
-  "twitter_site": "@twitter_site",
+  "twitter_site": "@appnodo",
   "image": "/images/feature/feature-hero.png",
   "image_alt": "/images/feature/feature-hero.png"
 }

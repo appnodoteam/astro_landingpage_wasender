@@ -3,31 +3,27 @@
   "items": [
     {
       "link": "/",
-      "text": "Home"
+      "text": "Inicio"
     },
     {
       "link": "/features/",
-      "text": "Features"
+      "text": "Características"
     },
     {
       "link": "/pricing/",
-      "text": "Pricing"
+      "text": "Precio"
     },
     {
       "link": "/about/",
-      "text": "About"
-    },
-    {
-      "link": "/blog/",
-      "text": "Blog"
+      "text": "Acerca de"
     },
     {
       "link": "/contact/",
-      "text": "Contact"
+      "text": "Contacto"
     }
   ],
   "btn": {
     "link": "/signup/",
-    "text": "Get Started"
+    "text": "Ir al Panel"
   }
 }

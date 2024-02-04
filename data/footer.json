@@ -1,26 +1,26 @@
 {
   "logo": "/images/footer-logo.svg",
   "logo_url": "/",
-  "copyright": "MyCompany. All rights reserved.",
+  "copyright": "AppNodo. All rights reserved.",
   "social": [
     {
-      "link": "https://www.facebook.com/mycompany",
+      "link": "https://www.facebook.com/appnod0",
       "social_icon": "ph-facebook-logo"
     },
     {
-      "link": "https://www.instagram.com/mycompany",
+      "link": "https://www.instagram.com/appnodo",
       "social_icon": "ph-instagram-logo"
     },
     {
-      "link": "https://www.twitter.com/mycompany",
+      "link": "https://www.twitter.com/appnodo",
       "social_icon": "ph-twitter-logo"
     },
     {
-      "link": "https://www.github.com/mycompany",
+      "link": "https://www.github.com/appnodoteam",
       "social_icon": "ph-github-logo"
     },
     {
-      "link": "https://www.youtube.com/mycompany",
+      "link": "https://www.youtube.com/appnodo",
       "social_icon": "ph-youtube-logo"
     }
   ],

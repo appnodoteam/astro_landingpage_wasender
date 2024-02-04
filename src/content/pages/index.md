@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Home
+title: Inicio
 seo:
   page_description:
   canonical_url:
@@ -11,31 +11,32 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: CRM para WhatsApp
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
-    image: /images/hero/hero-image-2.png
+      WaSender es una plataforma de CRM para WhatsApp Business unifica 
+      la comunicación de todos tus números de WhatsApp Business en un solo lugar.
+    image: /images/hero/535shots_so.png
     image_alt: Reports dashboard
     button:
-      text: Try This Free
-      link: /signup/
+      text: Contratar
+      link: https://dash.appnodo.com
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: Escala tu
+    title_suffix: Negocio
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      Concede acceso a tu equipo de ventas a la plataforma de WaSender y
+      aumenta la productividad de tu negocio unifocando la comunicación con tus
+      clientes en un solo número de WhatsApp Business.
     alternate_style: false
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
       - prefix:
-        number: 2016
+        number: 24.51
+        suffix: "%"
+        text: Atención al cliente
+      - prefix:
+        number: 2024
         suffix:
-        text: Established in
+        text: Lanzamiento
       - prefix:
         number: 40
         suffix: +
@@ -43,36 +44,37 @@ content_blocks:
       - prefix:
         number: 4322
         suffix: +
-        text: Active users and growing
+        text: Usuarios activos
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
-    title_suffix: Features
+    title: "Wasender "
+    title_suffix: Beneficios
     remove_top_padding: true
     description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
+      Nuestra plataforma es la solución perfecta para empresas que buscan
+      mejorar la comunicación con sus clientes a través de WhatsApp Business.
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
-    title: Email Campaign in one minute
+    title: "Tan fácil como ¡Escanear el código QR y listo!"
     description: >-
-      Send an email campaign with one click, in just minutes. Automate your
-      emails and content, while keeping the human touch.
+      Si tu empresa tiene varios números de WhatsApp Business, con WaSender
+      podrás unificar la comunicación en una sola plataforma. No necesitas instalar apps adicionales.
     button:
       link: /signup
-      text: Try This Free
+      text: Contratar
     reversed: false
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-two.png
     image_alt: Visitor chart
-    title: See every Lead in one Place
+    title: ¿Tienes varias empresas?
     description: >-
-      Sales analytics and automation made simple: see every sales lead in one
-      place, regardless of where it came from.
+      Si tienes varias empresas, podrás configurar un número de WhatsApp Business
+      para cada una de ellas y atender a tus clientes desde un solo lugar.
+      Tu equipo de ventas podrá atender a todos tus clientes desde un solo lugar.
     button:
       link: /signup
       text: Try This Free
@@ -80,11 +82,10 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-three.png
     image_alt: File upload
-    title: 100% free uploads
+    title: Inteligencia Artificial
     description: >-
-      Sendit is used by everyone from small businesses to fortune 500 companies.
-      Browse our collection of email marketing templates and start sending
-      beautiful emails in minutes.
+      Analiza el trato de tus agentes con los clientes con Inteligencia Artificial y mejora la atención al cliente.
+      Mide la satisfacción de tus clientes y mejora la calidad de tu servicio.
     button:
       link: /signup
       text: Try This Free
