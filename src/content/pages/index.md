@@ -11,9 +11,10 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: CRM para WhatsApp
+    title: WhaCloud
+    subtitle: "CRM Multiagente para WhatsApp"
     description: >-
-      WaSender es una plataforma de CRM para WhatsApp Business unifica 
+      WhaCloud es una plataforma de CRM para WhatsApp Business unifica 
       la comunicación de todos tus números de WhatsApp Business en un solo lugar.
     image: /images/hero/535shots_so.png
     image_alt: Reports dashboard
@@ -24,7 +25,7 @@ content_blocks:
     title: Escala tu
     title_suffix: Negocio
     description: >-
-      Concede acceso a tu equipo de ventas a la plataforma de WaSender y
+      Concede acceso a tu equipo de ventas a la plataforma de WhaCloud y
       aumenta la productividad de tu negocio unifocando la comunicación con tus
       clientes en un solo número de WhatsApp Business.
     alternate_style: false
@@ -50,7 +51,7 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Wasender "
+    title: "WhaCloud "
     title_suffix: Beneficios
     remove_top_padding: true
     description: >-
@@ -61,10 +62,10 @@ content_blocks:
     image_alt: Message inbox
     title: "Tan fácil como ¡Escanear el código QR y listo!"
     description: >-
-      Si tu empresa tiene varios números de WhatsApp Business, con WaSender
+      Si tu empresa tiene varios números de WhatsApp Business, con WhaCloud
       podrás unificar la comunicación en una sola plataforma. No necesitas instalar apps adicionales.
     button:
-      link: /signup
+      link: https://dash.appnodo.com
       text: Contratar
     reversed: false
   - _bookshop_name: global/feature
@@ -76,8 +77,8 @@ content_blocks:
       para cada una de ellas y atender a tus clientes desde un solo lugar.
       Tu equipo de ventas podrá atender a todos tus clientes desde un solo lugar.
     button:
-      link: /signup
-      text: Try This Free
+      link: https://dash.appnodo.com
+      text: Contratar
     reversed: true
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-three.png
@@ -87,35 +88,8 @@ content_blocks:
       Analiza el trato de tus agentes con los clientes con Inteligencia Artificial y mejora la atención al cliente.
       Mide la satisfacción de tus clientes y mejora la calidad de tu servicio.
     button:
-      link: /signup
-      text: Try This Free
+      link: https://dash.appnodo.com
+      text: Contratar
     reversed: false
-  - _bookshop_name: global/testimonial
-    title: Build relationships that
-    title_suffix: last
-    description: >-
-      Customers from around the world are building game changing email marketing
-      campaigns.
-    slider:
-      - image: /images/testimonial/logo-2.jpg
-        image_alt: Profile photo of Pete Fish
-        author: Pete Fish
-        designation: CMO at Clear Appeal
-        message: >-
-          Sendit has taken Clear Appeal to the next level with it's beautiful
-          targetted email campaigns.
-      - image: /images/testimonial/logo-3.jpg
-        image_alt: Profile photo of Dolly Watson
-        author: Dolly Watson
-        designation: Digital Marketer at Time Cop
-        message: >-
-          Wow, what a difference Sendit has made. My customers are more engaged
-          than ever.
-      - image: /images/testimonial/logo-4.jpg
-        image_alt: Profile photo of Simon Moriarty
-        author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
-        message: >-
-          I can't imagine life without Sendit now, I have no idea how we were
-          surviving before.
+  
 ---

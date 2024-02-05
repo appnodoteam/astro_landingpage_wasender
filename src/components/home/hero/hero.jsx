@@ -10,6 +10,7 @@ export default function HomeHero(block) {
           <div className="col-lg-6">
             <div className="hero-two-content">
               <h1 className="mb-4">{block.title}</h1>
+              <h2 className="mb-4">{block.subtitle}</h2>
               <div
                 className="mb-7 w-xxl-80"
                 dangerouslySetInnerHTML={{
@@ -31,7 +32,7 @@ export default function HomeHero(block) {
           </div>
           <div className="col-lg-6">
             <div className="hero-two-banner">
-              <img src={block.image} alt={block.image_alt} height={700}/>
+              <img src={block.image} alt={block.image_alt} height={720}/>
               <div className="hero-two-banner-shape"></div>
             </div>
           </div>
