@@ -1,13 +1,13 @@
 {
-	"site_name": "WaSender",
-	"site_title": "Sendit Template Astro",
-	"description": "A polished, marketing website template built with Astro.",
+	"site_name": "WhaCloud",
+	"site_title": "WhaCloud es una plataforma multiagente de mensajería instantánea",
+	"description": "Incremente su alcance y su productividad con WhaCloud, la plataforma de mensajería instantánea que le permite comunicarse con sus clientes y empleados de manera rápida y segura.",
 	"author": "",
 	"author_email": "",
 	"images": [
 		{
-			"image": "/images/_screenshot.png",
-			"description": "Screenshot for Sendit Template",
+			"image": "/images/whacloud_cover.jpeg",
+			"description": "Screenshot for WhaCloud Template",
 			"height": 0,
 			"width": 0
 		}

@@ -2,9 +2,9 @@
 _schema: default
 title: Inicio
 seo:
-  page_description:
-  canonical_url:
-  featured_image:
+  page_description: "WhaCloud es una plataforma de CRM para WhatsApp Business unifica la comunicación de todos tus números de WhatsApp Business en un solo lugar."
+  canonical_url: https://whacloud.com/
+  featured_image: /images/whacloud_cover.jpeg
   featured_image_alt:
   author_twitter_handle:
   open_graph_type:
