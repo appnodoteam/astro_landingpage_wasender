@@ -1,8 +1,9 @@
 ---
 _schema: default
-title: Inicio
+title: WhaCloud - CRM Multiagente para WhatsApp
 seo:
   page_description: "WhaCloud es una plataforma de CRM para WhatsApp Business unifica la comunicación de todos tus números de WhatsApp Business en un solo lugar."
+  page_title: WhaCloud - CRM Multiagente para WhatsApp
   canonical_url: https://whacloud.com/
   featured_image: /images/whacloud_cover.jpeg
   featured_image_alt:
