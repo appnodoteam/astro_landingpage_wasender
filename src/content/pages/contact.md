@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacto
 seo:
   page_description:
   canonical_url:
@@ -10,36 +10,37 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Let's talk.
-    description: Have a question or suggestion? Feel free to drop us a message!
+    title: Contáctanos
+    description: ¿Tienes alguna pregunta? Estamos aquí para ayudarte.
   - _bookshop_name: contact/form
     address:
-      heading: Office Address
-      address: 123 Train St, San Francisco, CA 9107
+      heading: Dirección
+      address: Diagonal 6, Edificio Interamericas, WFC, Zona 10 Primer Nivel, Local 118
+
     phone:
       heading: Phone
-      cell: (123) 456 - 7895
+      cell: (502) 58852471
       image: /images/contact/call-add.svg
       image_alt: call-add
     email:
       heading: Email
-      email: info@example.com
+      email: ventas@appnodo.com
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
-      heading: Say Hello
+      heading: Envíanos un mensaje
       fullname:
-        heading: Full Name
+        heading: Nombre
         placeholder: Enter First Name
       phone_number:
-        heading: Phone number
+        heading: Número de Teléfono
         placeholder: Enter Phone Number
       email:
-        heading: Email Address
+        heading: Email
         placeholder: Enter Email Address
       message:
-        heading: Your Messages
-        placeholder: Enter your message
+        heading: Mensaje
+        placeholder: Describenos tu consulta y si deseas indicanos una fecha y hora para contactarte
       submit_button:
-        text: Send message
+        text: Enviar
 ---

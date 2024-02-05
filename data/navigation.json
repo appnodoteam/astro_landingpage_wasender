@@ -23,7 +23,7 @@
     }
   ],
   "btn": {
-    "link": "/signup/",
+    "link": "https://dash.appnodo.com",
     "text": "Ir al Panel"
   }
 }

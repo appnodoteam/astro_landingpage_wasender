@@ -34,41 +34,41 @@
         },
         {
           "link": "/features/",
-          "text": "Features"
+          "text": "Características"
         },
         {
           "link": "/pricing/",
-          "text": "Price"
+          "text": "Precios"
         },
         {
           "link": "/about/",
-          "text": "About"
+          "text": "Acerca de"
         }
       ]
     },
     {
-      "title": "Community",
+      "title": "Empresa",
       "links": [
         {
-          "link": "/blog/",
-          "text": "Blog"
+          "link": "https://dash.appnodo.com",
+          "text": "Panel de Control"
         },
         {
-          "link": "/feed.xml",
-          "text": "RSS Feed"
+          "link": "https://industriasmultimedia.com",
+          "text": "Proveedor de Hosting"
         }
       ]
     },
     {
-      "title": "Company",
+      "title": "Contacto",
       "links": [
         {
-          "link": "/contact/",
-          "text": "Contact"
+          "link": "https://appnodo.com/contacto",
+          "text": "Contacto"
         },
         {
-          "link": "/privacy/",
-          "text": "Privacy Policy"
+          "link": "https://iimm.biz/w",
+          "text": "WhatsApp"
         }
       ]
     }
