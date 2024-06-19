@@ -53,7 +53,7 @@ export default function ContactForm(block) {
             <div className="contact-form">
               {block.form && (
                 <>
-                  <form method="post">
+                  <form method="post" onsubmit="return false;">
                     <h3>{block.form.heading}</h3>
                     {block.form.fullname && (
                       <>
@@ -150,5 +150,6 @@ export default function ContactForm(block) {
         </div>
       </div>
     </section>
+    
   );
 }

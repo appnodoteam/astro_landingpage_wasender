@@ -17,17 +17,17 @@ content_blocks:
 
   - _bookshop_name: pricing/table
     pricing_tier:
-      - tier: Básico
+      - tier: API Send
         highlight_tier: true
-        description: Empieza con lo básico y crece a tu propio ritmo.
+        description: Intégralo con tu sistema, envía mensajes y/o documentos.
         currency_symbol: $
-        price: 38
+        price: 11
         has_discount: true
-        discount_price: 19
+        discount_price: 5.0
         features:
           - item: 1 Número de WhatsApp
             active_feature: true
-          - item: 3 Agentes de ventas
+          - item: API de integración
             active_feature: true
           - item: 30 días de historial
             active_feature: true
@@ -37,13 +37,13 @@ content_blocks:
         button:
           link: https://dash.appnodo.com
           text: Contratar
-      - tier: Pro
+      - tier: Multi Agente
         highlight_tier: false
         description: Para empresas que están ampliando su alcance.
         currency_symbol: $
-        price: 48
+        price: 19
         has_discount: true
-        discount_price: 29
+        discount_price: 12
         features:
           - item: 5 Números de WhatsApp
             active_feature: true

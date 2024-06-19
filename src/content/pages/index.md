@@ -1,9 +1,9 @@
 ---
 _schema: default
-title: WhaCloud - CRM Multiagente para WhatsApp
+title: WhaCloud - API para enviar mensajes por whatsapp
 seo:
-  page_description: "WhaCloud es una plataforma de CRM para WhatsApp Business unifica la comunicación de todos tus números de WhatsApp Business en un solo lugar."
-  page_title: WhaCloud - CRM Multiagente para WhatsApp
+  page_description: "WhaCloud es una plataforma que permite a las empresas enviar mensajes de WhatsApp a sus clientes de forma automatizada."
+  page_title:  WhaCloud - API para enviar mensajes por whatsapp
   canonical_url: https://whacloud.com/
   featured_image: /images/whacloud_cover.jpeg
   featured_image_alt:
@@ -13,10 +13,10 @@ seo:
 content_blocks:
   - _bookshop_name: home/hero
     title: WhaCloud
-    subtitle: "CRM Multiagente para WhatsApp"
+    subtitle: "API para enviar mensajes de WhatsApp"
     description: >-
-      WhaCloud es una plataforma de CRM para WhatsApp Business unifica 
-      la comunicación de todos tus números de WhatsApp Business en un solo lugar.
+      La herramienta ideal para que un equipo atienda simultáneamente a los clientes por WhatsApp.
+      Además una fácil integración con cualquier CRM, ERP o Sistema de Ventas.
     image: /images/hero/535shots_so.png
     image_alt: Reports dashboard
     button:
@@ -26,27 +26,26 @@ content_blocks:
     title: Escala tu
     title_suffix: Negocio
     description: >-
-      Concede acceso a tu equipo de ventas a la plataforma de WhaCloud y
-      aumenta la productividad de tu negocio unifocando la comunicación con tus
-      clientes en un solo número de WhatsApp Business.
+      Envía cotizaciones, facturas, recordatorios, alertas, etc.
+      La API es compatible con todos los lenguajes de programación, usalo con Zappier, N8N, Cron Job y otros.
     alternate_style: false
     numbers:
       - prefix:
-        number: 24.51
+        number: 99
         suffix: "%"
-        text: Atención al cliente
+        text: Garantía de entrega
       - prefix:
-        number: 2024
-        suffix:
-        text: Lanzamiento
+        number: 95
+        suffix: "%"
+        text: Uptime
+      - prefix: "-" 
+        number: 67
+        suffix: "%"
+        text: Envio de mensaje manual
       - prefix:
-        number: 40
-        suffix: +
-        text: Amazing team members
-      - prefix:
-        number: 4322
-        suffix: +
-        text: Usuarios activos
+        number: 24
+        suffix: "/7"
+        text: Soporte
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
@@ -69,6 +68,17 @@ content_blocks:
       link: https://dash.appnodo.com
       text: Contratar
     reversed: false
+  - _bookshop_name: global/feature
+    image: /images/feature/feature-card-one.png
+    image_alt: Message inbox
+    title: "Integración con WordPress y otras plataformas"
+    description: >-
+      ¿Tienes un sitio web en WordPress? Con WhaCloud podrás integrar un formulario de contacto
+      y todos los mensajes que recibas se notificarán de inmediato en tu cuenta de WhaCloud.
+    button:
+      link: https://dash.appnodo.com
+      text: Contratar
+    reversed: true
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-two.png
     image_alt: Visitor chart

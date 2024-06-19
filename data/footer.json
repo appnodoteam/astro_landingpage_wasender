@@ -1,5 +1,5 @@
 {
-  "logo": "/images/footer-logo.svg",
+  "logo": "/images/wacloud-h50.png",
   "logo_url": "/",
   "copyright": "AppNodo. All rights reserved.",
   "social": [
@@ -30,7 +30,7 @@
       "links": [
         {
           "link": "/",
-          "text": "Home"
+          "text": "Inicio"
         },
         {
           "link": "/features/",

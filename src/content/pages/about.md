@@ -10,9 +10,9 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: about/hero
-    title: Nuestra misión es simplificar el marketing por WhatsApp
+    title: Nuestra misión es simplificar la mensajería automática por WhatsApp
     description: >-
-      WhaCloud es una plataforma de marketing por WhatsApp que te permite enviar mensajes a tus clientes de forma rápida y sencilla.
+        WhaCloud es una plataforma de marketing por WhatsApp que te permite enviar mensajes a tus clientes de forma rápida y sencilla.
     hero_images:
       - image: /images/about/aboutfeature-two.jpg
         image_alt: People working on laptops
@@ -34,18 +34,20 @@ content_blocks:
       WhaCloud es una plataforma de marketing por WhatsApp que te permite enviar mensajes a tus clientes de forma rápida y sencilla.
     alternate_style: true
     numbers:
-      - prefix: $
-        number: 200
+      - prefix: 
+        number: 50
+        suffix: k
+        text: Mensajes enviados diariamente
+      - number: 10
         suffix: m
-        text: Venture capital raised
-      - number: 2016
-        text: Established in
-      - number: 40
+        prefix: "+"
+        text: Mensajes entregados
+      - number: 50
         suffix: +
-        text: Amazing team members
-      - number: 44325
-        suffix: +
-        text: Active users and growing
+        text: Integraciones
+      - number: 95
+        suffix: "%"
+        text: Satisfacción del cliente
 
   - _bookshop_name: about/video
     title: Amamos este proyecto
